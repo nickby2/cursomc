@@ -1,4 +1,4 @@
-package com.aplication.course.services.domain;
+package com.aplication.course.domain;
 
 import java.io.Serializable;
 import java.util.ArrayList;
